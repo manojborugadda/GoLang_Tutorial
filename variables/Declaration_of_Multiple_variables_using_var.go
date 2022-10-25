@@ -11,7 +11,7 @@ func main() {
   var a , b , c  = 10 , 30 , 40   // declaring multiple variables
   var d , e , f = 10, true , 234
 
-var(                                  ///Another way of declaring the  multiple variables
+var(                                 ///Another way of declaring the  multiple variables
   number = "007"
   name  = "James Bond "
   salary = 200.90
