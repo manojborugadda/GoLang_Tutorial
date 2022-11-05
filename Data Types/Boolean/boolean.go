@@ -17,7 +17,7 @@ func main() {
 	var b1 = 45 < 23 && 23 == 23   // second operand wont be evaluated since first evaluates to false 
 	var b2 = 8*10 == 80 || 23 < 2  // second operand wont be evaluated since first evaluates to true
 
-	//using short variable declaration
+	//using short variable declaration.
 	a := 23
 	b := 24
 
