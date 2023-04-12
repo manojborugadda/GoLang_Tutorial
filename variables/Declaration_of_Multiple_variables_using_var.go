@@ -6,7 +6,7 @@ we know Go is Statically typed language but it provides the facility to REMOVE t
 
 package main
 import "fmt"
-func main() {
+func main() { 
   
   var a , b , c  = 10 , 30 , 40   // declaring multiple variables
   var d , e , f = 10, true , 234
